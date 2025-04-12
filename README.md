@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Tech Stack:
-Here’s an overview of the tools and technologies I work with:
+Here’s an overview of the tools and technologies I work with:&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp; 
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp; 
 ![Laravel](https://img.shields.io/badge/-Laravel-555?style=flat&logo=laravel)&nbsp; 
