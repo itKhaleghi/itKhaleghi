@@ -1,4 +1,4 @@
-[# ![](./src/header_.png)
+![](./src/header_.png)
 
 ## 👋 About Me:
 > Hi! I am an **experienced back-end developer** with a strong passion for building and improving web systems.  
@@ -22,7 +22,14 @@ Here’s an overview of the tools and technologies I work with:&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-555?style=flat&logo=visual-studio&logoColor=9d2bc7)&nbsp; 
 
 ---
+## 📱 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/itkhaleghi)&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/itkhaleghi)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itkhaleghi)&nbsp;
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/itkhaleghi)&nbsp;
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/itkhaleghi)&nbsp;
 
+---
 ## 📊 My GitHub Highlights:
 
 📈 **Contributions Overview**:  
@@ -30,13 +37,14 @@ Here’s an overview of the tools and technologies I work with:&nbsp;
 
 <table>  
     <tr>  
-        <td align="center"><a href="https://github.com/itKhaleghi#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=itKhaleghi&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/itKhaleghi#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=itKhaleghi&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>  
+        <td align="center"><a href="https://github.com/itKhaleghi#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=itKhaleghi&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/itKhaleghi#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=itKhaleghi&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>  
     </tr>  
     <tr>  
         <td align="center"><a href="https://github.com/itKhaleghi#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itKhaleghi&theme=default"/></a><a href="https://github.com/itKhaleghi#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itKhaleghi&theme=tokyonight"/></a></td>  
     </tr>  
     <tr>  
-        <td colspan="2" align="center"><a href="https://github.com/itKhaleghi#gh-light-mode-only"><img src="https://raw.githubusercontent.com/itKhaleghi/itKhaleghi/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/itKhaleghi#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/itKhaleghi/itKhaleghi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>  
+        <td colspan="2" align="center"><a href="https://github.com/itKhaleghi#gh-light-mode-only"><img src="https://raw.githubusercontent.com/itKhaleghi/itKhaleghi/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a></td>  
     </tr>  
 </table>  
 
